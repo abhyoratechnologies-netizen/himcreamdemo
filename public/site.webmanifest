@@ -1,0 +1,24 @@
+{
+  "name": "Him Cream",
+  "short_name": "Him Cream",
+  "description": "Explore the Him Cream collection. Ye to amrit hai!",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFF9EF",
+  "theme_color": "#183D32",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
